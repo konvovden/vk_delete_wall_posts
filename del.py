@@ -1,5 +1,4 @@
 import vk_api, time
-from vk_api import exceptions
 
 ac_token = '' # access_token
 
